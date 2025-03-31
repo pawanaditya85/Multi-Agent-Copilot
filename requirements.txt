@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+openai
+requests
+PyMuPDF
+faiss-cpu
+agno
+duckduckgo-search 
+pypdf
+lancedb
+tantivy
+pylance
